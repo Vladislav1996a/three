@@ -1,0 +1,21 @@
+.container {
+    background-color: #fff;
+    border-radius: 8px;
+    height: 60px;
+    display: flex;
+    position: absolute;
+    bottom: 30px;
+    right: 60px;
+    z-index: 3;
+    width: fit-content;
+    gap:40px;
+    align-items: center;
+    padding-left: 27px;
+    padding-right: 27px;
+}
+
+.text {
+    font-size: 12px;
+    color: rgba(0,0,0,.8);
+    font-weight: 600;
+}

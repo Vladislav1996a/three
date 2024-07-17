@@ -1,0 +1,16 @@
+.image {
+    width: 76px;
+    height: 76px;
+}
+
+.title {
+    color: #1C1C1C;
+    font-size: 10px;
+    max-width: 80px;
+    font-weight: 400;
+    line-height: 14px;
+}
+
+.container {
+    cursor: pointer;
+}

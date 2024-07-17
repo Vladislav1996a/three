@@ -1,0 +1,41 @@
+.title {
+    font-size: 10px;
+    font-weight: 500;
+    color: #1C1B1F;
+    opacity: .8;
+}
+
+.menu {
+    height: 60px;
+    border-radius: 8px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    padding-left: 8px;
+    padding-right: 8px;
+    gap: 21px;
+    margin-top: 20px;
+    position: relative;
+    z-index: 2;
+}
+
+.item {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    border-radius: 8px;
+    cursor: pointer;
+    padding-top: 5px;
+}
+
+.active {
+    background-color: #49494C;
+
+}
+
+.active  .title {
+    
+    color: #FFF;
+    opacity: 1;
+}

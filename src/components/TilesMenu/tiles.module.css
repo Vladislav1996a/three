@@ -1,0 +1,69 @@
+.count {
+    color: #787878;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.filter {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+.filter span{
+    color: #1C1C1C;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.row {
+    display: flex;  
+    justify-content: space-between;
+}
+
+.list {
+    display: grid;
+    grid-template-columns: repeat(3, calc(33.33% - 6px));
+    gap: 8px;
+}
+
+.filterTitle {
+    font-weight: 400;
+    color: #1C1C1C;
+    font-size: 14px;
+}
+
+.filterTitle span {
+    color: #787878;
+}
+
+.box {
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
+    background-color: #DD7907;
+}
+
+.colorList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    margin-top: 14px;
+}
+
+.sectionFilter {
+    margin-top: 16px;
+}
+
+.checkbox {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.checkboxList {
+    margin-top: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
