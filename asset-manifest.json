@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/three/static/css/main.7b4479f0.css",
+    "main.js": "/three/static/js/main.1caf10cb.js",
+    "static/js/453.cf3a327e.chunk.js": "/three/static/js/453.cf3a327e.chunk.js",
+    "static/media/tiles-for.png": "/three/static/media/tiles-for.9211355fd6c155e75241.png",
+    "static/media/tiles-five.png": "/three/static/media/tiles-five.b65eb5bb514058c882ef.png",
+    "index.html": "/three/index.html",
+    "main.7b4479f0.css.map": "/three/static/css/main.7b4479f0.css.map",
+    "main.1caf10cb.js.map": "/three/static/js/main.1caf10cb.js.map",
+    "453.cf3a327e.chunk.js.map": "/three/static/js/453.cf3a327e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b4479f0.css",
+    "static/js/main.1caf10cb.js"
+  ]
+}
